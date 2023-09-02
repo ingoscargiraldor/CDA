@@ -49,11 +49,17 @@ Este análisis se centra en proporcionar información valiosa para inversionista
 
 ## Estrategia de Análisis
 
-La estrategia de análisis se enfoca en proporcionar una visión detallada y fundamentada para determinar la mejor opción de inversión inmobiliaria en Airbnb en Nueva York. Se utilizan técnicas de análisis univariado y bivariado para comprender la distribución de precios, la relación entre atributos y la influencia en la popularidad de los anfitriones.
+La estrategia de análisis se centrará en proporcionar una visión detallada y fundamentada para determinar la mejor opción de inversión inmobiliaria. Comenzando con el cálculo de estadísticos básicos como media, mediana y desviación estándar para datos cuantitativos, para datos categóricos se trabajará con frecuencia relativa, valores únicos y gráficas, se buscará comprender la distribución y dispersión de los precios de las propiedades. Además, se calcularán percentiles para identificar valores atípicos que podrían afectar la toma de decisiones. Para una perspectiva más completa, se emplearán técnicas gráficas como histogramas y bar plots para visualizar la distribución de precios y detectar patrones en función de atributos como la ubicación y la cantidad de revisiones.
+
+Asimismo, se llevará a cabo un análisis de correlación para examinar las relaciones entre los precios de las propiedades y otros atributos relevantes, como la cantidad de reseñas o el tipo de habitaciones disponibles. Se utilizará un mapa de calor para representar gráficamente las correlaciones disponibilidad y resaltar las características que influyen significativamente en el precio al final del analisis. Además, se empleará un gráfico de scatterplot para explorar la relación entre las revisiones y los precios, lo que permitirá identificar posibles tendencias y patrones.
+
 
 ## Desarrollo de la Estrategia
 
-A continuación, se presentan las recomendaciones basadas en el análisis:
+A continuación, se presentarán las recomendaciones a nivel de estrategia para adquirir un apartamento y que genere rentabilidad para operarlo bajo la aplicación de Airbnb en la ciudad de New York.
+Los datos en los cuales se basan las conclusiones son los siguientes: Precio, noches mínimas, vecindario, numero de reseñas y tipo de hospedaje, y estos han sido trabajados en estrategias como análisis univariado, bivariado y multivariado.
+
+Conclusiones:
 
 - Invertir en propiedades con mejores reseñas, ya que los precios altos tienden a tener reseñas más altas.
 
