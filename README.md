@@ -12,7 +12,7 @@ Este análisis se centra en proporcionar información valiosa para inversionista
 
 ## Dataset
 
-**Dataset Utilizado:** Airbnb NYC Listings and Calendar Data
+**Dataset Utilizado:** Airbnb NewYork
 
 **Dimensiones del Dataset:**
 - Número de filas: 43,566
