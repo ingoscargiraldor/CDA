@@ -4,7 +4,8 @@ Ciencia de datos aplicada Taller1
 ## Para verificar los datos puede acceder al siguiente link
 <a href="https://github.com/ingoscargiraldor/CDA/blob/main/airbnb/eda.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-El dataset de la ciudad de Nueva York lo encontrara en la carpeta airbnb,
+## 1. A continuación se detalla el dataset seleccionado para el analisis,
+El dataset de la ciudad de Nueva York lo encontrara en la carpeta airbnb/data,
 
 # Análisis de Datos para Inversionistas de Airbnb en New York
 
@@ -17,6 +18,15 @@ Este análisis se centra en proporcionar información valiosa para inversionista
 **Dimensiones del Dataset:**
 - Número de filas: 43,566
 - Número de columnas: 75
+
+## 2. Entendimiento inicial de los datos, 
+Podra encontrar sobre el Notebook compartido secciones de analisis univariado como:
+
+* Analysis univariate for price
+* Analysis univariate for Minimum_nights
+* Analysis univariate for Neighbourhood
+* Analysis univariate for room_type
+* Analysis univariate for number_of_reviews
 
 **Tipos de Datos:**
 - Cuantitativos: price, minimum_nights, maximum_nights, number_of_reviews, reviews_per_month, availability_365
