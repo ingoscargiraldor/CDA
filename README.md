@@ -92,6 +92,7 @@ Conclusiones:
 ![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/28d48ea7-a3c6-4e06-a3b3-77b830d036c1)
 
 - Noches Mínimas: La mayoría de las propiedades exitosas tienen un requisito de noches mínimas de 1 a menos de 100. La mayor frecuencia de solicitud se encuentra en estancias de 30 días. Por lo tanto, recomendamos establecer noches mínimas flexibles para atraer a una variedad de huéspedes.
+
 ![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/bd4f8d8f-a21a-46b5-8916-2ecf4da38a76)
 
 # Recomendaciones
