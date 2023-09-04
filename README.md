@@ -1,4 +1,4 @@
-# CDA
+# CDA - Oscar Duvan Giraldo Romero
 Ciencia de datos aplicada Taller1
 
 ## Para verificar los datos puede acceder al siguiente link
