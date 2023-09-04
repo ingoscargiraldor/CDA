@@ -83,16 +83,18 @@ Conclusiones:
 ![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/00eaad97-4b76-4f21-8c21-32f2d6c79bd9)
 
 - Elección del Vecindario: Basándonos en el análisis de datos, Bedford-Stuyvesant y Williamsburg destacan como los vecindarios más prometedores para invertir. Estas áreas no solo mantienen calificaciones altas, sino que también ofrecen flexibilidad en los precios, lo que permite mantener precios atractivos para los huéspedes.
-![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/5b76c745-23e9-4281-adbc-6e71e6145792)
+![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/17c542ae-0854-48e6-a3a0-b24190c70799)
 
 - Tipo de Hospedaje: Las propiedades completas o casas enteras son la opción preferida. Estos alojamientos tienden a ser los más solicitados y generan reseñas positivas. Además, ofrecen flexibilidad en la fijación de precios, lo que puede aumentar la rentabilidad.
-![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/bf22903e-f2a8-43ca-83bf-1156d949bfd8)
+![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/dbf5298d-eb05-4d5c-8e2b-6438aaa74290)
 
 - Vecindario Williamsburg: Williamsburg se destaca como una opción atractiva para inversión. Ofrece una alta demanda, precios flexibles y calificaciones sobresalientes. Es una zona en crecimiento que merece consideración.
-![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/c32dadda-d215-4d59-9b65-4137ff9bbf23)
-
-- Revisando el grafico por categorías se concluye que una opción que ofrece mas flexibilidad en la asignación del valor de la renta y mantiene una frecuencia alta de asistencia con un buen puntaje de reseñas es Williamsburg.
-![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/68f1bbca-5243-4e2c-b6e9-db145b9d9b20)
+![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/28d48ea7-a3c6-4e06-a3b3-77b830d036c1)
 
 - Noches Mínimas: La mayoría de las propiedades exitosas tienen un requisito de noches mínimas de 1 a menos de 100. La mayor frecuencia de solicitud se encuentra en estancias de 30 días. Por lo tanto, recomendamos establecer noches mínimas flexibles para atraer a una variedad de huéspedes.
+![image](https://github.com/ingoscargiraldor/CDA/assets/99930749/bd4f8d8f-a21a-46b5-8916-2ecf4da38a76)
+
+# Recomendaciones
+En base a estas conclusiones, recomendamos invertir en propiedades ubicadas en Bedford-Stuyvesant y Williamsburg, preferiblemente casas o apartamentos completos. Mantener altas calificaciones de reseñas es esencial, y ser flexible con los precios puede atraer a un público diverso. Los precios pueden variar desde los 30 USD hasta los 400 USD, aunque el precio que más llama la atención es de 150 USD. Además, considere una política de noches mínimas que abarque desde 1 noche hasta menos de 100, para satisfacer las necesidades de diferentes huéspedes.
+
 ---
