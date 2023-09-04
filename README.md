@@ -2,7 +2,7 @@
 Ciencia de datos aplicada Taller1
 
 ## Para verificar los datos puede acceder al siguiente link
-<a href="https://github.com/ingoscargiraldor/CDA/blob/main/airbnb/eda.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/ingoscargiraldor/CDA/blob/main/airbnb/eda.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## 1. A continuación se detalla el dataset seleccionado para el analisis,
 El dataset de la ciudad de Nueva York lo encontrara en la carpeta airbnb/data,
